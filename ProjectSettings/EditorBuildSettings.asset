@@ -12,5 +12,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Map.unity
     guid: 2a0b675bc8331ea47824ed0c12e37b1e
   - enabled: 1
-    path: Assets/Scenes/Camera.unity
-    guid: d80ed4753416960429490627615a1759
+    path: Assets/Scenes/MusketScene.unity
+    guid: 49ff7fa790e8f294eb72bf47edb4e8fd
+  - enabled: 1
+    path: Assets/Scenes/HorseScene.unity
+    guid: 101a0b3ef7b1cc340aef5c04f10ce2b6
